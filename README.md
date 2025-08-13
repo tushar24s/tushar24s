@@ -3,10 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&text=Hi%20I'm%20Tushar%20Singh%20👋&fontSize=30&fontColor=ffffff" />
 </p>
 
+<!-- Profile views counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tushar24s&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ## 🚀 About Me
-I'm a **B.Tech Computer Science Graduate** passionate about **Full Stack Development** and **building scalable applications**.  
+I'm a **B.Tech Computer Science graduate** passionate about **Full Stack Development** and **building scalable applications**.  
 From eCommerce platforms to finance tools, I enjoy crafting **clean code**, **modern UI**, and **efficient backends**.  
 
 ---
