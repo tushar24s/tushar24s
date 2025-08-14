@@ -11,8 +11,7 @@
 ---
 
 ## 🚀 About Me
-I'm a **B.Tech Computer Science graduate** passionate about **Full Stack Development** and **building scalable applications**.  
-From eCommerce platforms to finance tools, I enjoy crafting **clean code**, **modern UI**, and **efficient backends**.  
+I'm a **Front-End Developer with a passion for UI/UX design and a strong foundation in Java programming. I focus on building clean, responsive, and user-friendly interfaces that merge modern design with efficient, maintainable code. Always exploring ways to enhance usability and create seamless digital experiences.**.  
 
 ---
 
