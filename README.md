@@ -56,10 +56,10 @@ I'm a **Front-End Developer with a passion for UI/UX design and a strong foundat
 ---
 
 ## 🎓 Certifications  
-- **JP Morgan:** Software Engineering Virtual Experience  
-- **Accenture:** Data Analytics & Visualization  
-- **FreeCodeCamp:** Front End Development Libraries  
-- **Udemy:** Databases with Python  
+- **Udemy:** The Complete Full-Stack Web Development Bootcamp  
+- **NPTEL:** Python for Data Science   
+- **Cisco:** Introduction to Cybersecurity and Networking
+- **Udemy:** Databases with Python: MySQL, SQLite & MongoDB 
 
 ---
 
