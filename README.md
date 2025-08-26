@@ -105,8 +105,13 @@ Always exploring new ways to enhance usability and deliver seamless digital expe
 - 📚 **Publication**  
   *"Credit Card Fraud Prediction Using Machine Learning"* – *IJCA, Vol.187 No.5*  
 
-- 🎓 **Certifications**  
-  Udemy – Full-Stack Dev Bootcamp • NPTEL – Python for Data Science • Cisco – Cybersecurity • Udemy – Databases with Python  
+## 📜 Certifications  
+- **The Complete Full-Stack Web Development Bootcamp** – Udemy  
+- **Python for Data Science** – NPTEL  
+- **Introduction to Cybersecurity and Networking** – Cisco  
+- **Databases with Python: MySQL, SQLite & MongoDB** – Udemy  
+ 
+  
 
 ---
 
