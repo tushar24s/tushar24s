@@ -80,6 +80,10 @@ Always exploring new ways to enhance usability and deliver seamless digital expe
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 </p>
+<!-- Top Languages Stats -->
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar24s&layout=compact&theme=vue&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c3d1d9&border_radius=12&card_width=600" alt="Top Languages"/>
+</div>
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
