@@ -90,10 +90,12 @@ Always exploring new ways to enhance usability and deliver seamless digital expe
 
 ## 🌟 Featured Projects  
 
+- 📊 **adsppy** → JavaScript + React app for searching & analyzing Facebook Ad Library data, funding details, and ad trends  
 - 🛒 **MERN eCommerce Platform** → Full shopping experience with payments & admin dashboard  
 - 💰 **Personal Finance Manager** → React + Spring Boot app with smart tracking  
 - 💳 **ML Fraud Detection** → Credit card fraud detection with FastAPI + Python  
 - 🧾 **Retail Management Suite** → Inventory + billing + reporting system  
+ 
 
 ---
 
