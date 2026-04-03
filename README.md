@@ -89,11 +89,10 @@ Always exploring new ways to enhance usability and deliver seamless digital expe
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌟 Featured Projects  
-
-- 💸 **ZenFinance** → Next.js + TypeScript + Supabase personal finance manager with budgeting, salary planning, subscription tracking, loan management, and spending analytics in a modern glass UI
-- 🛒 **Velora** → premium full-stack luxury eCommerce project  
-- 📊 **AdSpy** → JavaScript + React app for searching & analyzing Facebook Ad Library data, funding details, and ad trends  
-
+- 🎮 **TrackAura** → React + Vite + Framer Motion gamified productivity dashboard with habit tracking, focus sessions, XP-based progression, and local-first architecture
+- 💸 **ZenFinance** → Next.js + TypeScript + Supabase full-stack finance manager with transactions, budgets, analytics dashboards, and secure authentication
+- 🛒 **Velora** → MERN stack luxury eCommerce platform with product browsing, cart, checkout, admin dashboard, and JWT-based authentication 
+- 📊 **MyPortfolio** → React + Vite + Framer Motion personal portfolio with animated UI, dark/light theme, interactive project previews, and integrated contact system  
 
 
 ---
